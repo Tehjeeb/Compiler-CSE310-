@@ -1,0 +1,9 @@
+int a[20];
+void main()
+{
+	int b,c,d[5];
+	a[1]=10;//4 ba tar boro dile kaj kore
+	b=1;
+	c=a[1]+b+1+1;
+	println(c);
+}
